@@ -1,9 +1,9 @@
 ## Welcome to My Own Little World ⚡
 
- <div align="center">
-  <a href="https://github.com/riunjii">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=riunjii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riunjiis&layout=compact&langs_count=7&theme=tokyonight"/>
+ <div>
+   <a href="https://github.com/riunjii">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riunjii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riunjii&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
